@@ -1,0 +1,1 @@
+This file is for information, the main.go is based on a go dowloader via url, however implemented was concurrency for sectioning the download, allowing faster download speed and increasing the max download GB with Mega + similar platforms.
